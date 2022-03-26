@@ -1,1 +1,8 @@
-
+pandas
+numpy
+sklearn
+lazypredict
+matplotlib
+seaborn
+chembl_webresource_client
+rdkit
